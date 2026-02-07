@@ -1,0 +1,7 @@
+---
+title: "Areas"
+output: html_document
+author: "Belinda Villalta"
+date: "2026-07-02"
+---
+
