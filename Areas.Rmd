@@ -8,3 +8,9 @@ date: "2026-07-02"
 
 # Area de un circulo
 
+r <- 0.5
+Area <- pi*r^2
+
+#Area Cuadrado
+lado <- 3
+AreaCuadrado <- Lado^2
