@@ -20,17 +20,26 @@ summary(cars)
 ```
 
 
-# Area circulo
+## Area circulo
 
 ```{r pressure, echo=FALSE}
 r<- 0.5
 Area <- pi*r^2
 ```
-# Area cuadrado
+## Area cuadrado
 
 ```{r pressure, echo=FALSE}
 Lado <- 3
 AreaCuadrado <- Lado^3
 ```
+
+## Área del triángulo
+```{r pressure, echo=FALSE}
+base <- 10
+altura <- 5
+area_triangulo <- (base * altura) / 2
+area_triangulo
+```
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
