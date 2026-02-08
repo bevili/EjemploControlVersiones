@@ -54,7 +54,7 @@ area_rectangulo
 AreaTrapecio <- function(b, B, H) {
   ((b + B) / 2) * H
 }
-
+# 
 
 ```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
