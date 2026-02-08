@@ -26,5 +26,11 @@ summary(cars)
 r<- 0.5
 Area <- pi*r^2
 ```
+# Area cuadrado
+
+```{r pressure, echo=FALSE}
+Lado <- 3
+AreaCuadrado <- Lado^3
+```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
