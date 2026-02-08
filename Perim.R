@@ -9,4 +9,6 @@ LongitudCircunf <- function(R) {
 
 PerimetroRectangulo <- function(base, altura) {
   2 * (base + altura)
+  return(2*(L+l))
+  
 }
