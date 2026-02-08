@@ -41,5 +41,12 @@ area_triangulo <- (base * altura) / 2
 area_triangulo
 ```
 
+## Área del rectángulo
+```{r pressure, echo=FALSE}
+base <- 8
+altura <- 4
+area_rectangulo <- base * altura
+area_rectangulo
 
+```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
