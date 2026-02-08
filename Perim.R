@@ -12,4 +12,3 @@ PerimetroRectangulo <- function(base, altura) {
   return(2*(L+l))
   
 }
-
